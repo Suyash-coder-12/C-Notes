@@ -5,7 +5,7 @@ A free, comprehensive guide to C programming compiled from Stack Overflow Docume
 ---
 
 ## 📥 Download
-[⬇ Click here to download PDF](https://github.com/Suyash-Coder-18/C-Notes/raw/main/CNotesForProfessionals.pdf)
+[⬇ Click here to download PDF](https://github.com/Suyash-coder-12/C-Notes/raw/main/CNotesForProfessionals.pdf)
 
 ---
 
